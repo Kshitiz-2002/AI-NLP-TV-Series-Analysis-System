@@ -10,3 +10,7 @@ pyvis==0.3.2
 datasets
 evaluate
 python-dotenv
+bitsandbytes
+git+https://github.com/huggingface/peft.git
+trl==0.9.6
+bitsandbytes==0.43.3
