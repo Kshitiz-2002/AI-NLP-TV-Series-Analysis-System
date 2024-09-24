@@ -7,3 +7,6 @@ gradio
 spacy
 spacy-transformers
 pyvis==0.3.2
+datasets
+evaluate
+python-dotenv
